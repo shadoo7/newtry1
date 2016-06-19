@@ -14,6 +14,7 @@ public class mymainclass {
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      int k = 10;
+	      int sam = 11;
 	}
 
 }
