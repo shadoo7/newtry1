@@ -13,6 +13,7 @@ public class mymainclass {
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
+	      int k = 10;
 	}
 
 }
