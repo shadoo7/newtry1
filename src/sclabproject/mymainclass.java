@@ -22,6 +22,7 @@ public class mymainclass {
 	      int k = 10;
 	      int sam = 11;
 	      int sambaba = 12;
+	      int zahid = 007;
 	}
 
 }
