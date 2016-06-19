@@ -12,6 +12,7 @@ public class mymainclass {
 	      System.out.println("Sum of entered integers = "+z);	
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
+	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	}
 
 }
