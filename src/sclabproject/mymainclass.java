@@ -1,6 +1,12 @@
 package sclabproject;
 import java.util.Scanner;
 public class mymainclass {
+	/**
+	 * 
+	 * @param args 
+	 * <h2>Documentation:..!!</h2>
+	 * <p>This is my documentation testing !!</p>
+	 */
 
 	public static void main(String[] args) {
 		 int x, y, z;
@@ -15,6 +21,7 @@ public class mymainclass {
 	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	      int k = 10;
 	      int sam = 11;
+	      int sambaba = 12;
 	}
 
 }
