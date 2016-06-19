@@ -10,7 +10,7 @@ public class mymainclass {
 	      y = pt.nextInt();
 	      z = x + y;
 	      System.out.println("Sum of entered integers = "+z);	
-
+	      System.out.println("shehzadddddddddddddddddddddddddddd");
 	}
 
 }
